@@ -2,4 +2,4 @@
 /shelf/
 /workspace.xml
 
-.env
+~/django_project/.env
